@@ -8,7 +8,7 @@ A Docker container for [stress](http://people.seas.harvard.edu/~apw/stress/), a 
 
 The container always runs in verbose mode.
 
-## Options
+### Options
 ```
  -?, --help         show this help statement
      --version      show version statement
