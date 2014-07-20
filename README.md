@@ -1,4 +1,4 @@
-# stress
+# docker-stress
 
 A Docker container for [stress](http://people.seas.harvard.edu/~apw/stress/), a tool for generating workload. It can produce CPU, memory, I/O, and disk stress.
 
@@ -32,6 +32,11 @@ Example: stress --cpu 8 --io 4 --vm 2 --vm-bytes 128M --timeout 10s
 
 Note: Numbers may be suffixed with s,m,h,d,y (time) or B,K,M,G (size).
 ```
+
+## Sponsor
+
+This project was made possible by [DigitalOcean](http://digitalocean.com).
+
 
 ## License
 
